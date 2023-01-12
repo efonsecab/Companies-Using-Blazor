@@ -35,6 +35,11 @@ Please feel free to add yor company websites using the technology.
 * Website: https://childcarefinder.wisconsin.gov/
 * Source Code: Private
 
+### Ferrari (https://www.ferrari.com/)
+#### SFC card Registration
+* Website: https://sfcregistration.ferrari.com/
+* Source Code: Private
+
 
 For more information on websites using Blazor, you can visit: https://trends.builtwith.com/websitelist/Blazor
 If you are interested in learning about Blazor you can see the following repo: https://github.com/AdrienTorris/awesome-blazor
