@@ -5,7 +5,7 @@ Please feel free to add yor company websites using the technology.
 ## Rules
 * The landing page of the website must be public and not request for immediate authentication
 * When looking at the website html, it hould clearly show it's using the Blazor scripts
-* Only add Websites running on either Blazor Server or Blazor WebAssembly
+* Only add Websites running on either Blazor Server or Blazor WebAssembly. The only exception to the rule is the link in the company's name
 * If there Source Code is private mention it like this "Source Code: Private"
 
 ## How To Add Websites
@@ -14,7 +14,7 @@ Please feel free to add yor company websites using the technology.
 
 ### List Of Companies Using Blazor
 
-### Company : PTI Costa Rica
+### Company : PTI Costa Rica (https://www.pticostarica.com/)
 #### FairPlaySocial
 * Website: https://fairplaysocialdev.azurewebsites.net/
 * Source Code: https://github.com/pticostaricags/FairPlaySocial/blob/main/CONTRIBUTING.md
