@@ -27,7 +27,7 @@ Please feel free to add yor company websites using the technology.
 * Source Code: Only available for Github Sponsors - https://github.com/sponsors/efonsecab
 
 #### Customer Finder
-* Websites: https://customerfinder.pticostarica.com/CEOs
+* Websites: https://customerfinder.pticostarica.com/
 * Source Code: Private
 
 ### Company: Wisconsin Department of Children and Families (DCF) (https://dcf.wisconsin.gov/)
