@@ -12,17 +12,21 @@ Please feel free to add yor company websites using the technology.
 * Fork the main repository
 * Create a Pull Request with your intended changes
 
+### List Of Companies Using Blazor
 
-## Company : PTI Costa Rica
-### FairPlaySocial
+### Company : PTI Costa Rica
+#### FairPlaySocial
 * Website: https://fairplaysocialdev.azurewebsites.net/
 * Source Code: https://github.com/pticostaricags/FairPlaySocial/blob/main/CONTRIBUTING.md
 
-### FairPlayTube
+#### FairPlayTube
 * Website: https://fairplaytube.pticostarica.com/
 * Source Code: Only available for Github Sponsors - https://github.com/sponsors/efonsecab
 
-## Company: Wisconsin Department of Children and Families (DCF)
-### YoungStar
+### Company: Wisconsin Department of Children and Families (DCF)
+#### YoungStar
 * Website: https://childcarefinder.wisconsin.gov/
 * Source Code: Private
+
+
+For more information on websites using Blazor, you can visit: https://trends.builtwith.com/websitelist/Blazor
