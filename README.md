@@ -4,7 +4,7 @@ Please feel free to add yor company websites using the technology.
 
 ## Rules
 * The landing page of the website must be public and not request for immediate authentication
-* When looking at the website html, it hould clearly show it's using the Blazor scripts
+* When looking at the website html, it should clearly show it's using the Blazor scripts
 
 <img width="552" alt="image" src="https://user-images.githubusercontent.com/3481899/212063349-29df58e5-688a-4f3d-8e21-3a98ad5f8b6d.png">
 
