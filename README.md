@@ -17,6 +17,15 @@ Please feel free to add yor company websites using the technology.
 
 ### List Of Companies Using Blazor
 
+### Company : bitplatform (https://bitplatform.dev/)
+#### Bit Platform website
+* Website: https://bitplatform.dev/
+* Source Code: https://github.com/bitfoundation/bitplatform/tree/main/src/Websites/Platform
+
+#### Bit BlazorUI
+* Website: https://components.bitplatform.dev/
+* Source Code: https://github.com/bitfoundation/bitplatform/tree/main/src/BlazorUI
+
 ### Company : PTI Costa Rica (https://www.pticostarica.com/)
 #### FairPlaySocial
 * Website: https://fairplaysocialdev.azurewebsites.net/
