@@ -1,6 +1,6 @@
 # Companies Using Blazor
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 The purpose of this repository is to have a comprehensive list of companies using Microsoft Blazor.
 Please feel free to add yor company websites using the technology.
@@ -71,6 +71,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://allmylinks.com/efonsecabcr"><img src="https://avatars.githubusercontent.com/u/3481899?v=4?s=100" width="100px;" alt="Eduardo Fonseca"/><br /><sub><b>Eduardo Fonseca</b></sub></a><br /><a href="https://github.com/efonsecab/Companies-Using-Blazor/commits?author=efonsecab" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/msynk/"><img src="https://avatars.githubusercontent.com/u/6169846?v=4?s=100" width="100px;" alt="Saleh Yusefnejad"/><br /><sub><b>Saleh Yusefnejad</b></sub></a><br /><a href="https://github.com/efonsecab/Companies-Using-Blazor/commits?author=msynk" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
