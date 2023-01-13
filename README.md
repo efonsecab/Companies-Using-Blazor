@@ -1,4 +1,7 @@
 # Companies Using Blazor
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 The purpose of this repository is to have a comprehensive list of companies using Microsoft Blazor.
 Please feel free to add yor company websites using the technology.
 
@@ -47,3 +50,25 @@ Please feel free to add yor company websites using the technology.
 
 For more information on websites using Blazor, you can visit: https://trends.builtwith.com/websitelist/Blazor
 If you are interested in learning about Blazor you can see the following repo: https://github.com/AdrienTorris/awesome-blazor
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://allmylinks.com/efonsecabcr"><img src="https://avatars.githubusercontent.com/u/3481899?v=4?s=100" width="100px;" alt="Eduardo Fonseca"/><br /><sub><b>Eduardo Fonseca</b></sub></a><br /><a href="https://github.com/efonsecab/Companies-Using-Blazor/commits?author=efonsecab" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
