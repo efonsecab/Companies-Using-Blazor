@@ -62,6 +62,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 * Website: https://blazorise.com/
 * Source Code: https://github.com/Megabit/Blazorise
 
+### Microsoft (https://www.microsoft.com/)
+#### .NET Live TV
+* Website: https://dotnet.microsoft.com/en-us/live
+* Source Code: Private / Unknown
+
 For more information on websites using Blazor, you can visit the followign links: 
 
 * https://trends.builtwith.com/websitelist/Blazor
