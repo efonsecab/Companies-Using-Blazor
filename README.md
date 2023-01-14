@@ -10,7 +10,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ### List Of Companies Using Blazor
 
-### Company: bitplatform (https://bitplatform.dev/)
+### Company: Bit Foundation (https://bitplatform.dev/)
 #### Bit Platform website
 * Website: https://bitplatform.dev/
 * Source Code: https://github.com/bitfoundation/bitplatform/tree/main/src/Websites/Platform
