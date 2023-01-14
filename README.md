@@ -10,7 +10,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ### List Of Companies Using Blazor
 
-### Company : bitplatform (https://bitplatform.dev/)
+### Company: bitplatform (https://bitplatform.dev/)
 #### Bit Platform website
 * Website: https://bitplatform.dev/
 * Source Code: https://github.com/bitfoundation/bitplatform/tree/main/src/Websites/Platform
@@ -19,7 +19,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 * Website: https://components.bitplatform.dev/
 * Source Code: https://github.com/bitfoundation/bitplatform/tree/main/src/BlazorUI
 
-### Company : PTI Costa Rica (https://www.pticostarica.com/)
+### Company: PTI Costa Rica (https://www.pticostarica.com/)
 #### FairPlaySocial
 * Website: https://fairplaysocialdev.azurewebsites.net/
 * Source Code: https://github.com/pticostaricags/FairPlaySocial/blob/main/CONTRIBUTING.md
@@ -37,37 +37,37 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 * Website: https://childcarefinder.wisconsin.gov/
 * Source Code: Private
 
-### Ferrari (https://www.ferrari.com/)
+### Company: Ferrari (https://www.ferrari.com/)
 #### SFC card Registration
 * Website: https://sfcregistration.ferrari.com/
 * Source Code: Private
 
-### Frankfurt Airport (https://frankfurt-airport.com)
+### Company: Frankfurt Airport (https://frankfurt-airport.com)
 #### Map
 * Website: https://map.frankfurt-airport.com/
 * Source Code: Private
 
-### I Love DotNet (https://ilovedotnet.org/)
+### Company: I Love DotNet (https://ilovedotnet.org/)
 #### I Love DotNet Website
 * Website: https://ilovedotnet.org/
 * Source Code: https://github.com/ILoveDotNet/ilovedotnet
 
-### Oqtane (https://www.oqtane.org/)
+### Company: Oqtane (https://www.oqtane.org/)
 #### Oqtane Website
 * Website: https://www.oqtane.org/
 * Source Code: https://github.com/oqtane/oqtane.framework
 
-### Megabit (https://megabitsoft.com/)
+### Company: Megabit (https://megabitsoft.com/)
 #### Blazorise Website
 * Website: https://blazorise.com/
 * Source Code: https://github.com/Megabit/Blazorise
 
-### Microsoft (https://www.microsoft.com/)
+### Company: Microsoft (https://www.microsoft.com/)
 #### .NET Live TV
 * Website: https://dotnet.microsoft.com/en-us/live
 * Source Code: Private / Unknown
 
-### DevExpress (https://www.devexpress.com/)
+### Company: DevExpress (https://www.devexpress.com/)
 #### Carl Franklin's Blazor Train
 * Website: https://blazortrain.com/
 * Source Code: Private / Unknown
