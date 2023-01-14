@@ -52,6 +52,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 * Website: https://ilovedotnet.org/
 * Source Code: https://github.com/ILoveDotNet/ilovedotnet
 
+### Oqtane (https://www.oqtane.org/)
+#### Oqtane Website
+* Website: https://www.oqtane.org/
+* Source Code: https://github.com/oqtane/oqtane.framework
+
 For more information on websites using Blazor, you can visit: https://trends.builtwith.com/websitelist/Blazor
 If you are interested in learning about Blazor you can see the following repo: https://github.com/AdrienTorris/awesome-blazor
 
