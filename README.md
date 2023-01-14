@@ -47,6 +47,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 * Website: https://map.frankfurt-airport.com/
 * Source Code: Private
 
+### I Love DotNet (https://ilovedotnet.org/)
+#### I Love DotNet Website
+* Website: https://ilovedotnet.org/
+* Source Code: https://github.com/ILoveDotNet/ilovedotnet
+
 For more information on websites using Blazor, you can visit: https://trends.builtwith.com/websitelist/Blazor
 If you are interested in learning about Blazor you can see the following repo: https://github.com/AdrienTorris/awesome-blazor
 
