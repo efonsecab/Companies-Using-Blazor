@@ -62,7 +62,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 * Website: https://blazorise.com/
 * Source Code: https://github.com/Megabit/Blazorise
 
-For more information on websites using Blazor, you can visit: https://trends.builtwith.com/websitelist/Blazor
+For more information on websites using Blazor, you can visit the followign links: 
+
+* https://trends.builtwith.com/websitelist/Blazor
+* https://builtonblazor.net/
+
 If you are interested in learning about Blazor you can see the following repo: https://github.com/AdrienTorris/awesome-blazor
 
 ## Contributors ✨
