@@ -67,6 +67,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 * Website: https://dotnet.microsoft.com/en-us/live
 * Source Code: Private / Unknown
 
+### DevExpress (https://www.devexpress.com/)
+#### Carl Franklin's Blazor Train
+* Website: https://blazortrain.com/
+* Source Code: Private / Unknown
+
 For more information on websites using Blazor, you can visit the followign links: 
 
 * https://trends.builtwith.com/websitelist/Blazor
