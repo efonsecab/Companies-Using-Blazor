@@ -9,7 +9,7 @@ Please feel free to add yor company websites using the technology.
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ### Blazor Jobs
-Check the wiki for a list of jobs: https://github.com/efonsecab/Companies-Using-Blazor/wiki
+Check the wiki for a list of jobs: https://github.com/efonsecab/Companies-Using-Blazor/wiki/Blazor-Jobs
 
 ### List Of Companies Using Blazor
 
