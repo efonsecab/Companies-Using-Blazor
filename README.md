@@ -8,6 +8,9 @@ Please feel free to add yor company websites using the technology.
 ## How To contribute
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
+### Blazor Jobs
+Check the wiki for a list of jobs: https://github.com/efonsecab/Companies-Using-Blazor/wiki
+
 ### List Of Companies Using Blazor
 
 ### Company: Bit Foundation (https://bitplatform.dev/)
